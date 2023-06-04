@@ -1,8 +1,8 @@
 # spoofs
-imple Linux command line tool for sending TCP packets with arbitrary spoofed IP
 
-compile:
-gcc spoofs.c -o spoofs
+Linux command line tool for sending TCP packets with arbitrary spoofed IP
+
+Compile with 'make'
 
 use:
 
